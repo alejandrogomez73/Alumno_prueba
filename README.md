@@ -2,13 +2,14 @@
 Testearemos como se trabaja del lado del Alumno
 
 ## Integrantes del Grupo
-Dario Insúa
-<br>
-Maria Gonzalez
-<br>
-Estefania Perez
-<br>
-Ariel Isgró
+
+* Dario Insúa
+
+* Maria Gonzalez
+
+* Estefania Perez
+
+* Ariel Isgró
 
 Última vez que se modificó el archivo 202204112035
 
